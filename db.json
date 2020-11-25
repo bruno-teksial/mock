@@ -577,6 +577,440 @@
         "attributes": ""
     }
   ],
+  "precarite": [
+    {
+      "id": "1",
+      "idf": "1",
+      "menage": "1",
+      "seuil_grande_precarite": "19803",
+      "seuil_precarite": "24107",
+      "date_debut": "2000-01-01 00:00:00",
+      "date_fin": "2018-01-01 00:00:00"
+    },
+    {
+      "id": "2",
+      "idf": "1",
+      "menage": "2",
+      "seuil_grande_precarite": "29066",
+      "seuil_precarite": "35382",
+      "date_debut": "2000-01-01 00:00:00",
+      "date_fin": "2018-01-01 00:00:00"
+    },
+    {
+      "id": "3",
+      "idf": "1",
+      "menage": "3",
+      "seuil_grande_precarite": "34906",
+      "seuil_precarite": "42495",
+      "date_debut": "2000-01-01 00:00:00",
+      "date_fin": "2018-01-01 00:00:00"
+    },
+    {
+      "id": "4",
+      "idf": "1",
+      "menage": "4",
+      "seuil_grande_precarite": "40758",
+      "seuil_precarite": "49620",
+      "date_debut": "2000-01-01 00:00:00",
+      "date_fin": "2018-01-01 00:00:00"
+    },
+    {
+      "id": "5",
+      "idf": "1",
+      "menage": "5",
+      "seuil_grande_precarite": "46630",
+      "seuil_precarite": "56765",
+      "date_debut": "2000-01-01 00:00:00",
+      "date_fin": "2018-01-01 00:00:00"
+    },
+    {
+      "id": "6",
+      "idf": "1",
+      "menage": "6",
+      "seuil_grande_precarite": "52490",
+      "seuil_precarite": "63901",
+      "date_debut": "2000-01-01 00:00:00",
+      "date_fin": "2018-01-01 00:00:00"
+    },
+    {
+      "id": "7",
+      "idf": "0",
+      "menage": "1",
+      "seuil_grande_precarite": "14308",
+      "seuil_precarite": "18342",
+      "date_debut": "2000-01-01 00:00:00",
+      "date_fin": "2018-01-01 00:00:00"
+    },
+    {
+      "id": "8",
+      "idf": "0",
+      "menage": "2",
+      "seuil_grande_precarite": "20925",
+      "seuil_precarite": "26826",
+      "date_debut": "2000-01-01 00:00:00",
+      "date_fin": "2018-01-01 00:00:00"
+    },
+    {
+      "id": "9",
+      "idf": "0",
+      "menage": "3",
+      "seuil_grande_precarite": "25166",
+      "seuil_precarite": "32260",
+      "date_debut": "2000-01-01 00:00:00",
+      "date_fin": "2018-01-01 00:00:00"
+    },
+    {
+      "id": "10",
+      "idf": "0",
+      "menage": "4",
+      "seuil_grande_precarite": "29400",
+      "seuil_precarite": "37690",
+      "date_debut": "2000-01-01 00:00:00",
+      "date_fin": "2018-01-01 00:00:00"
+    },
+    {
+      "id": "11",
+      "idf": "0",
+      "menage": "5",
+      "seuil_grande_precarite": "33652",
+      "seuil_precarite": "43141",
+      "date_debut": "2000-01-01 00:00:00",
+      "date_fin": "2018-01-01 00:00:00"
+    },
+    {
+      "id": "12",
+      "idf": "0",
+      "menage": "6",
+      "seuil_grande_precarite": "37893",
+      "seuil_precarite": "48575",
+      "date_debut": "2000-01-01 00:00:00",
+      "date_fin": "2018-01-01 00:00:00"
+    },
+    {
+      "id": "13",
+      "idf": "1",
+      "menage": "1",
+      "seuil_grande_precarite": "19875",
+      "seuil_precarite": "24194",
+      "date_debut": "2018-01-01 00:00:00",
+      "date_fin": "2019-04-01 00:00:00"
+    },
+    {
+      "id": "14",
+      "idf": "1",
+      "menage": "2",
+      "seuil_grande_precarite": "29171",
+      "seuil_precarite": "35510",
+      "date_debut": "2018-01-01 00:00:00",
+      "date_fin": "2019-04-01 00:00:00"
+    },
+    {
+      "id": "15",
+      "idf": "1",
+      "menage": "3",
+      "seuil_grande_precarite": "35032",
+      "seuil_precarite": "42648",
+      "date_debut": "2018-01-01 00:00:00",
+      "date_fin": "2019-04-01 00:00:00"
+    },
+    {
+      "id": "16",
+      "idf": "1",
+      "menage": "4",
+      "seuil_grande_precarite": "40905",
+      "seuil_precarite": "49799",
+      "date_debut": "2018-01-01 00:00:00",
+      "date_fin": "2019-04-01 00:00:00"
+    },
+    {
+      "id": "17",
+      "idf": "1",
+      "menage": "5",
+      "seuil_grande_precarite": "46798",
+      "seuil_precarite": "56970",
+      "date_debut": "2018-01-01 00:00:00",
+      "date_fin": "2019-04-01 00:00:00"
+    },
+    {
+      "id": "18",
+      "idf": "1",
+      "menage": "6",
+      "seuil_grande_precarite": "52680",
+      "seuil_precarite": "64132",
+      "date_debut": "2018-01-01 00:00:00",
+      "date_fin": "2019-04-01 00:00:00"
+    },
+    {
+      "id": "19",
+      "idf": "0",
+      "menage": "1",
+      "seuil_grande_precarite": "14360",
+      "seuil_precarite": "18409",
+      "date_debut": "2018-01-01 00:00:00",
+      "date_fin": "2019-04-01 00:00:00"
+    },
+    {
+      "id": "20",
+      "idf": "0",
+      "menage": "2",
+      "seuil_grande_precarite": "21001",
+      "seuil_precarite": "26923",
+      "date_debut": "2018-01-01 00:00:00",
+      "date_fin": "2019-04-01 00:00:00"
+    },
+    {
+      "id": "21",
+      "idf": "0",
+      "menage": "3",
+      "seuil_grande_precarite": "25257",
+      "seuil_precarite": "32377",
+      "date_debut": "2018-01-01 00:00:00",
+      "date_fin": "2019-04-01 00:00:00"
+    },
+    {
+      "id": "22",
+      "idf": "0",
+      "menage": "4",
+      "seuil_grande_precarite": "29506",
+      "seuil_precarite": "37826",
+      "date_debut": "2018-01-01 00:00:00",
+      "date_fin": "2019-04-01 00:00:00"
+    },
+    {
+      "id": "23",
+      "idf": "0",
+      "menage": "5",
+      "seuil_grande_precarite": "33774",
+      "seuil_precarite": "43297",
+      "date_debut": "2018-01-01 00:00:00",
+      "date_fin": "2019-04-01 00:00:00"
+    },
+    {
+      "id": "24",
+      "idf": "0",
+      "menage": "6",
+      "seuil_grande_precarite": "38031",
+      "seuil_precarite": "48751",
+      "date_debut": "2018-01-01 00:00:00",
+      "date_fin": "2019-04-01 00:00:00"
+    },
+    {
+      "id": "25",
+      "idf": "1",
+      "menage": "1",
+      "seuil_grande_precarite": "20470",
+      "seuil_precarite": "24918",
+      "date_debut": "2019-04-01 00:00:00",
+      "date_fin": "2020-04-01 00:00:00"
+    },
+    {
+      "id": "26",
+      "idf": "1",
+      "menage": "2",
+      "seuil_grande_precarite": "30044",
+      "seuil_precarite": "36572",
+      "date_debut": "2019-04-01 00:00:00",
+      "date_fin": "2020-04-01 00:00:00"
+    },
+    {
+      "id": "27",
+      "idf": "1",
+      "menage": "3",
+      "seuil_grande_precarite": "36080",
+      "seuil_precarite": "43924",
+      "date_debut": "2019-04-01 00:00:00",
+      "date_fin": "2020-04-01 00:00:00"
+    },
+    {
+      "id": "28",
+      "idf": "1",
+      "menage": "4",
+      "seuil_grande_precarite": "42128",
+      "seuil_precarite": "51289",
+      "date_debut": "2019-04-01 00:00:00",
+      "date_fin": "2020-04-01 00:00:00"
+    },
+    {
+      "id": "29",
+      "idf": "1",
+      "menage": "5",
+      "seuil_grande_precarite": "48198",
+      "seuil_precarite": "58674",
+      "date_debut": "2019-04-01 00:00:00",
+      "date_fin": "2020-04-01 00:00:00"
+    },
+    {
+      "id": "30",
+      "idf": "1",
+      "menage": "6",
+      "seuil_grande_precarite": "54257",
+      "seuil_precarite": "66051",
+      "date_debut": "2019-04-01 00:00:00",
+      "date_fin": "2020-04-01 00:00:00"
+    },
+    {
+      "id": "31",
+      "idf": "0",
+      "menage": "1",
+      "seuil_grande_precarite": "14790",
+      "seuil_precarite": "18960",
+      "date_debut": "2019-04-01 00:00:00",
+      "date_fin": "2020-04-01 00:00:00"
+    },
+    {
+      "id": "32",
+      "idf": "0",
+      "menage": "2",
+      "seuil_grande_precarite": "21630",
+      "seuil_precarite": "27729",
+      "date_debut": "2019-04-01 00:00:00",
+      "date_fin": "2020-04-01 00:00:00"
+    },
+    {
+      "id": "33",
+      "idf": "0",
+      "menage": "3",
+      "seuil_grande_precarite": "26013",
+      "seuil_precarite": "33346",
+      "date_debut": "2019-04-01 00:00:00",
+      "date_fin": "2020-04-01 00:00:00"
+    },
+    {
+      "id": "34",
+      "idf": "0",
+      "menage": "4",
+      "seuil_grande_precarite": "30389",
+      "seuil_precarite": "38958",
+      "date_debut": "2019-04-01 00:00:00",
+      "date_fin": "2020-04-01 00:00:00"
+    },
+    {
+      "id": "35",
+      "idf": "0",
+      "menage": "5",
+      "seuil_grande_precarite": "34784",
+      "seuil_precarite": "44592",
+      "date_debut": "2019-04-01 00:00:00",
+      "date_fin": "2020-04-01 00:00:00"
+    },
+    {
+      "id": "36",
+      "idf": "0",
+      "menage": "6",
+      "seuil_grande_precarite": "39169",
+      "seuil_precarite": "50209",
+      "date_debut": "2019-04-01 00:00:00",
+      "date_fin": "2020-04-01 00:00:00"
+    },
+    {
+      "id": "37",
+      "idf": "1",
+      "menage": "1",
+      "seuil_grande_precarite": "20593",
+      "seuil_precarite": "25068",
+      "date_debut": "2020-04-01 00:00:00",
+      "date_fin": null
+    },
+    {
+      "id": "38",
+      "idf": "1",
+      "menage": "2",
+      "seuil_grande_precarite": "30225",
+      "seuil_precarite": "36792",
+      "date_debut": "2020-04-01 00:00:00",
+      "date_fin": null
+    },
+    {
+      "id": "39",
+      "idf": "1",
+      "menage": "3",
+      "seuil_grande_precarite": "36297",
+      "seuil_precarite": "44188",
+      "date_debut": "2020-04-01 00:00:00",
+      "date_fin": null
+    },
+    {
+      "id": "40",
+      "idf": "1",
+      "menage": "4",
+      "seuil_grande_precarite": "42381",
+      "seuil_precarite": "51597",
+      "date_debut": "2020-04-01 00:00:00",
+      "date_fin": null
+    },
+    {
+      "id": "41",
+      "idf": "1",
+      "menage": "5",
+      "seuil_grande_precarite": "48488",
+      "seuil_precarite": "59026",
+      "date_debut": "2020-04-01 00:00:00",
+      "date_fin": null
+    },
+    {
+      "id": "42",
+      "idf": "1",
+      "menage": "6",
+      "seuil_grande_precarite": "54584",
+      "seuil_precarite": "66448",
+      "date_debut": "2020-04-01 00:00:00",
+      "date_fin": null
+    },
+    {
+      "id": "43",
+      "idf": "0",
+      "menage": "1",
+      "seuil_grande_precarite": "14879",
+      "seuil_precarite": "19074",
+      "date_debut": "2020-04-01 00:00:00",
+      "date_fin": null
+    },
+    {
+      "id": "44",
+      "idf": "0",
+      "menage": "2",
+      "seuil_grande_precarite": "21760",
+      "seuil_precarite": "27896",
+      "date_debut": "2020-04-01 00:00:00",
+      "date_fin": null
+    },
+    {
+      "id": "45",
+      "idf": "0",
+      "menage": "3",
+      "seuil_grande_precarite": "26170",
+      "seuil_precarite": "33547",
+      "date_debut": "2020-04-01 00:00:00",
+      "date_fin": null
+    },
+    {
+      "id": "46",
+      "idf": "0",
+      "menage": "4",
+      "seuil_grande_precarite": "30572",
+      "seuil_precarite": "39192",
+      "date_debut": "2020-04-01 00:00:00",
+      "date_fin": null
+    },
+    {
+      "id": "47",
+      "idf": "0",
+      "menage": "5",
+      "seuil_grande_precarite": "34993",
+      "seuil_precarite": "44860",
+      "date_debut": "2020-04-01 00:00:00",
+      "date_fin": null
+    },
+    {
+      "id": "48",
+      "idf": "0",
+      "menage": "6",
+      "seuil_grande_precarite": "39405",
+      "seuil_precarite": "50511",
+      "date_debut": "2020-04-01 00:00:00",
+      "date_fin": null
+    }
+  ],  
   "organizations": [
     {
       "id": "1",
